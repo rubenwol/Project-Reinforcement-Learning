@@ -1,5 +1,5 @@
-Moshe Berchansky 20885877
-Ruben Wolhandler 342674983
+Moshe Berchansky
+Ruben Wolhandler
 
 The link to the notebook:
 https://colab.research.google.com/drive/15iIWoM3xRDCC4ud80sdIj3KHbceEd6XQ?usp=sharing
