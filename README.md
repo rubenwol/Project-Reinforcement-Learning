@@ -1,5 +1,7 @@
-Moshe Berchansky
 Ruben Wolhandler
+
+Moshe Berchansky
+
 
 **Description of the Project:**
 1. a. Solve LunarLanderContinous using discretization of action space
