@@ -2,7 +2,7 @@ Moshe Berchansky
 Ruben Wolhandler
 
 **Description of the Project:**
-1. a. Solve LunarLanderContinous using discretization of action space \\
+1. a. Solve LunarLanderContinous using discretization of action space \n
    b. Solve LunarLanderContinous using discretization of action space and without using the velocities information.
 3. Solve BipedalWalkerHardcore with 3000 episodes
 
